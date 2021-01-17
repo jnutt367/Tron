@@ -1,0 +1,33 @@
+body {
+    background: #000;
+    text-align: center;
+    font-family: 'Bungee', cursive;
+  }
+  
+  #tron {
+    border: 1px solid #777;
+    outline: 1px solid #333;
+    outline-offset: 5px;
+  }
+  
+  #play-btn {
+    display: flex;
+    position: fixed;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    z-index: 100;
+    background: #000000aa;
+  }
+  
+  #play-btn > button {
+    font-size: 2rem;
+      font-family: 'Bungee', cursive;
+    color: #fff;
+    border: 2px solid #fff;
+    background: none;
+    padding: 5px 55px;
+    cursor: pointer;
+    margin-top: -100px;
+  }
