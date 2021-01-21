@@ -5,7 +5,7 @@ body {
   }
   
   #tron {
-    border: 1px solid #777;
+    border: 1px solid skyblue;
     outline: 1px solid #333;
     outline-offset: 5px;
   }
@@ -30,4 +30,4 @@ body {
     padding: 5px 55px;
     cursor: pointer;
     margin-top: -100px;
-  }
+  }         
